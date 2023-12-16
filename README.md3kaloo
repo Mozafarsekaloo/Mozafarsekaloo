@@ -13,3 +13,39 @@ https://github.com/Mozafarsekaloo/ConfigCollector/blob/mainمظفر/.github/work
 
 
 V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#%40v2_team%7C%F0%9F%87%BA%F0%9F%87%B8%7C78.66
+
+{
+"tag": "Reality | 2",
+"type": "vless",
+"server": "127.0.0.1",
+"server_port": 443,
+"uuid": "2ed69b6e-06a8-42df-9248-1f4ace590c00",
+"flow": "",
+"packet_encoding": "xudp",
+"multiplex": {
+"enabled": false,
+"protocol": "smux",
+"max_streams": 32
+},
+"transport": {
+"host": [
+"127.0.0.1"
+],
+"path": "/cc6ac00b",
+"type": "http"
+},
+"tls": {
+"enabled": true,
+"server_name": "www.yahoo.com",
+"insecure": false,
+"utls": {
+"enabled": true,
+"fingerprint": "chrome"
+},
+"reality": {
+"enabled": true,
+"public_key": "kZKTtjbc_e7Hu9XMOLt3n2d7hdGsRs53Obx5zWFMFE0",
+"short_id": "85e9eb946f76f3f0"
+}
+}
+},
